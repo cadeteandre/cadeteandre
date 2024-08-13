@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript
-- 😄 Pronouns: he/his
+- 🌱 I’m currently learning Web Development
 
 <!-- <div align="center">
   <a href="https://github.com/cadeteandre">
