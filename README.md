@@ -8,7 +8,7 @@
   <img height="180em" width="400em" alt="Langs"src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadeteandre&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div> -->
   
-  [![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadeteandre)](https://github.com/cadeteandre/github-readme-stats)
+ <!-- [![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadeteandre)](https://github.com/cadeteandre/github-readme-stats) -->
  <br> 
   
 <div style="display: inline_block"> <!-- devicons -->
