@@ -9,17 +9,7 @@
 </div> -->
   
  <!-- [![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadeteandre)](https://github.com/cadeteandre/github-readme-stats) -->
- <br> 
-  
-<div style="display: inline_block"> <!-- devicons -->
-  <img align="center" height="30" width="40" border-radius="5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-</div>
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,react,vite,tailwind,sass,bootstrap,git,github,figma)](https://skillicons.dev)
 
 <br>
 
