@@ -9,7 +9,7 @@
 </div> -->
   
  <!-- [![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadeteandre)](https://github.com/cadeteandre/github-readme-stats) -->
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,sass,bootstrap,git,github,figma)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,supabase,tailwind,sass,bootstrap,git,github,figma)](https://skillicons.dev)
 
 <br>
 
