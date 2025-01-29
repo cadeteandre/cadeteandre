@@ -11,7 +11,7 @@ I'm a passionate **Frontend Web Developer** with a love for crafting beautiful a
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cadeteandre&layout=compact&theme=gruvbox)
 
 ## 📚 What I'm Currently Learning
- [![My Skills](https://skillicons.dev/icons?i=threejs,nextjs)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 ## ⚡ Fun Fact
 Once a biology graduate researching small mammals, now a frontend developer crafting digital experiences. 🚀
 
