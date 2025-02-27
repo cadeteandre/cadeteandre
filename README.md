@@ -4,7 +4,9 @@
 I'm a passionate **Frontend Web Developer** with a love for crafting beautiful and functional user interfaces. Constantly learning and improving my skills to stay up-to-date with the latest web technologies.
 
 ## 🛠 Tech Stack
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,vite,supabase,netlify,vercel,vitest,jest,bootstrap,git,github,figma)](https://skillicons.dev)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,vite,supabase,netlify,vercel,vitest,jest,bootstrap,git,github,figma" width="600" />
+</div>
 
 ## 📊 GitHub Stats
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cadeteandre&show_icons=true&theme=gruvbox) -->
