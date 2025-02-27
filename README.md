@@ -5,7 +5,7 @@ I'm a passionate **Frontend Web Developer** with a love for crafting beautiful a
 
 ## 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,vite,supabase,netlify,vercel,vitest,jest,bootstrap,git,github,figma" width="600" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,vite,supabase,netlify,vercel,vitest,jest,bootstrap,git,github,figma" />
 </div>
 
 ## 📊 GitHub Stats
