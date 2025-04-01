@@ -5,7 +5,7 @@ I'm a passionate **Frontend Web Developer** with a love for crafting beautiful a
 
 ## 🛠 Tech Stack
 <div align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,vite,supabase,firebase,netlify,vercel,vitest,jest,bootstrap,git,github,figma" />
   </a>
 </div>
