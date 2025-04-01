@@ -4,7 +4,7 @@
 I'm a passionate **Frontend Web Developer** with a love for crafting beautiful and functional user interfaces. Constantly learning and improving my skills to stay up-to-date with the latest web technologies.
 
 ## 🛠 Tech Stack
-<div style="text-align: center;">
+<div align="center">
  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,vite,supabase,firebase,netlify,vercel,vitest,jest,bootstrap,git,github,figma" />
 </div>
 
