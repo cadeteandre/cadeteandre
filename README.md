@@ -8,7 +8,7 @@ I'm a passionate **Full Stack Web Developer** with a love for crafting beautiful
 ### 🌐 Frontend
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,zustand,sass,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,bootstrap" />
   </a>
 </div>
 
