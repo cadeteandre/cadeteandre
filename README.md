@@ -12,7 +12,7 @@ I'm a passionate **Full Stack Web Developer** with a love for crafting beautiful
   </a>
 </div>
 
-### � Backend & Databases
+### 🗄️ Backend & Databases
 <div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=supabase,firebase" />
