@@ -1,7 +1,7 @@
 # Hi there, I'm André <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ## 🚀 About Me
-I'm a passionate **Full Stack Web Developer** with a love for crafting beautiful and functional user interfaces. Constantly learning and improving my skills to stay up-to-date with the latest web technologies.
+I'm a **Full Stack Web Developer** with a love for crafting beautiful and functional user interfaces. Constantly learning and improving my skills to stay up-to-date with the latest web technologies.
 
 ## 🛠 Tech Stack
 
