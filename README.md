@@ -8,21 +8,21 @@ I'm a **Full Stack Web Developer** with a love for crafting beautiful and functi
 ### 🌐 Frontend
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,shadcn,sass,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,bootstrap" />
   </a>
 </div>
 
 ### 🗄️ Backend & Databases
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,firebase" />
+    <img src="https://skillicons.dev/icons?i=supabase,postgres,firebase" />
   </a>
 </div>
 
 ### 🧪 Testing
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,vitest" />
+    <img src="https://skillicons.dev/icons?i=jest,vitest,postman" />
   </a>
 </div>
 
