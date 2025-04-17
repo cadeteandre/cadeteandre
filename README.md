@@ -15,7 +15,7 @@ I'm a **Full Stack Web Developer** with a love for crafting beautiful and functi
 ### 🗄️ Backend & Databases
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,postgres,firebase" />
+    <img src="https://skillicons.dev/icons?i=supabase,neon,postgres,firebase" />
   </a>
 </div>
 
