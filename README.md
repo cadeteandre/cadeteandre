@@ -45,10 +45,7 @@ I'm a **Full Stack Web Developer** with a love for crafting beautiful and functi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cadeteandre&layout=compact&theme=gruvbox)
 
 ## 📚 What I'm Currently Learning
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React Native" title="React Native"/>
-  <span>React Native</span>
-</div>
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## ⚡ Fun Fact
 Once a biology graduate researching small mammals, now a frontend developer crafting digital experiences. 🚀
