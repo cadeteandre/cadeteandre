@@ -45,7 +45,7 @@ I'm a **Full Stack Web Developer** with a love for crafting beautiful and functi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cadeteandre&layout=compact&theme=gruvbox)
 
 ## 📚 What I'm Currently Learning
- [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=reactnative)](https://skillicons.dev)
 ## ⚡ Fun Fact
 Once a biology graduate researching small mammals, now a frontend developer crafting digital experiences. 🚀
 
