@@ -15,7 +15,7 @@ I'm a **Full Stack Web Developer** with a love for crafting beautiful and functi
 ### 🗄️ Backend & Databases
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,postgres,firebase,php" />
+    <img src="https://skillicons.dev/icons?i=supabase,postgres,firebase" />
   </a>
 </div>
 
@@ -46,6 +46,7 @@ I'm a **Full Stack Web Developer** with a love for crafting beautiful and functi
 
 ## 📚 What I'm Currently Learning
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=php" />
 
 ## ⚡ Fun Fact
 Once a biology graduate researching small mammals, now a frontend developer crafting digital experiences. 🚀
